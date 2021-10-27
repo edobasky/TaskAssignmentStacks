@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\TaskAssignmentStacks\TaskAssignmentStacks\bin\Debug\netcoreapp3.1\TaskAssignmentStacks.exe
+C:\Users\hp\source\repos\TaskAssignmentStacks\TaskAssignmentStacks\bin\Debug\netcoreapp3.1\TaskAssignmentStacks.deps.json
+C:\Users\hp\source\repos\TaskAssignmentStacks\TaskAssignmentStacks\bin\Debug\netcoreapp3.1\TaskAssignmentStacks.runtimeconfig.json
+C:\Users\hp\source\repos\TaskAssignmentStacks\TaskAssignmentStacks\bin\Debug\netcoreapp3.1\TaskAssignmentStacks.runtimeconfig.dev.json
+C:\Users\hp\source\repos\TaskAssignmentStacks\TaskAssignmentStacks\bin\Debug\netcoreapp3.1\TaskAssignmentStacks.dll
+C:\Users\hp\source\repos\TaskAssignmentStacks\TaskAssignmentStacks\bin\Debug\netcoreapp3.1\TaskAssignmentStacks.pdb
+C:\Users\hp\source\repos\TaskAssignmentStacks\TaskAssignmentStacks\obj\Debug\netcoreapp3.1\TaskAssignmentStacks.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\TaskAssignmentStacks\TaskAssignmentStacks\obj\Debug\netcoreapp3.1\TaskAssignmentStacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\TaskAssignmentStacks\TaskAssignmentStacks\obj\Debug\netcoreapp3.1\TaskAssignmentStacks.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\TaskAssignmentStacks\TaskAssignmentStacks\obj\Debug\netcoreapp3.1\TaskAssignmentStacks.AssemblyInfo.cs
+C:\Users\hp\source\repos\TaskAssignmentStacks\TaskAssignmentStacks\obj\Debug\netcoreapp3.1\TaskAssignmentStacks.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TaskAssignmentStacks\TaskAssignmentStacks\obj\Debug\netcoreapp3.1\TaskAssignmentStacks.dll
+C:\Users\hp\source\repos\TaskAssignmentStacks\TaskAssignmentStacks\obj\Debug\netcoreapp3.1\TaskAssignmentStacks.pdb
+C:\Users\hp\source\repos\TaskAssignmentStacks\TaskAssignmentStacks\obj\Debug\netcoreapp3.1\TaskAssignmentStacks.genruntimeconfig.cache
